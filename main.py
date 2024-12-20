@@ -92,8 +92,6 @@ def classify(train_file, test_file):
 
 
 
-    "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"
-
 
     print(confmet)
 
